@@ -10,8 +10,7 @@
      * of names and grades.
      * Create the array...
      */
-    // Array structure:
-   // studentID => array('name' => 'Name', 'grade' => XX.X)
+
    $students = [
       256   => ['name' => 'Jon',        'grade' => 98.5],
       2     => ['name' => 'Vance',      'grade' => 85.1],
