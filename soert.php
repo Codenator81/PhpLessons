@@ -5,7 +5,7 @@
   <title>Sorting Multidimensional Arrays</title>
 </head>
 <body>
-<?php # Script 1.1 - sort.php
+<?php # Script 1.1 - soert.php
     /* This page creates a multidimensional array
      * of names and grades.
      * Create the array...
@@ -29,7 +29,7 @@
    }
 
 // Print the array as is:
-echo '<h2>Array As Is</h2><pre>' . print_r($students, 1) . '</pre>';
+echo '<h2>Array As Is and not is</h2><pre>' . print_r($students, 1) . '</pre>';
 
    // Sort by name:
    uasort($students, 'name_sort');
