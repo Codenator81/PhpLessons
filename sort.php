@@ -8,9 +8,8 @@
 <?php # Script 1.1 - sort.php
     /* This page creates a multidimensional array
      * of names and grades.
+     * Create the array...
      */
-    // Create the array...
-
     // Array structure:
    // studentID => array('name' => 'Name', 'grade' => XX.X)
    $students = [
