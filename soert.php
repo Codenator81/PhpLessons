@@ -18,7 +18,7 @@
       364   => ['name' => 'Steve',      'grade' => 85.1],
       68    => ['name' => 'Rob',        'grade' => 74.6]
    ];
-// Name sorting function:
+// Name sorting function: try to do like
      function name_sort($x, $y) {
            return strcasecmp($x['name'], $y['name']);
      }
