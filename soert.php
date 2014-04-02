@@ -41,5 +41,8 @@ echo '<h2>Array As Is and not is</h2><pre>' . print_r($students, 1) . '</pre>';
    echo '<h2>Array Sorted By Grade</h2><pre>' . print_r($students, 1) . '</pre>';
 
    ?>
+<div>
+
+</div>
    </body>
    </html>
