@@ -15,7 +15,7 @@ Masterim
 
    $students = [
       256   => ['name' => 'Jon',        'grade' => 98.5],
-      2     => ['name' => 'Vance',      'grade' => 85.1],
+      2     => ['name' => 'Vaвавnce',      'grade' => 85.1],
       9     => ['name' => 'Stephen',    'grade' => 94.0],
       364   => ['name' => 'Steve',      'grade' => 85.1],
       68    => ['name' => 'Rob',        'grade' => 74.6]
