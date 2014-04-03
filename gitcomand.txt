@@ -1,0 +1,18 @@
+git clone 
+git remote -v
+
+git fetch [remotename]
+git push [remotename] [branch name]
+gitk
+git add .
+git commit -a 
+git commit -m "name commit"
+git commit --amend
+git checkout -- namefale.php   reverse
+git log --pretty=oneline
+git log --since=2.weeks
+
+создаёт лок бранч который читает ремоте бранчь
+git checkout --track origin/namebranchtotrack
+
+
